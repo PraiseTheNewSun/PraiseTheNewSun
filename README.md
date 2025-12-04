@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Praise Sunday</h1>
 <h3 align="center">A Pythonista from Nigeria</h3>
 
-- 🔭 I’m currently working on **RateUp**
+- 🔭 I’m currently working on **Filco**, a file conversion SaaS
 
-- 🌱 I’m currently learning **Vue, PyTorch**
+- 🌱 I’m currently learning **PyTorch**
 
-- 💬 Ask me about **Python, Vue, Database Management**
+- 💬 Ask me about **Python, Django, PyQt, Web Development, Database Management**
 
 - 📫 How to reach me **thenewsuntns@gmail.com**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@sabopraise" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sabopraise" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/praise sabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praise sabo" height="30" width="40" /></a>
 <a href="https://fb.com/praise sabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praise sabo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@praisetnspss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@praisetnspss" height="30" width="40" /></a>
 </p>
